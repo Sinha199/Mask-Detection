@@ -14,8 +14,8 @@ Yolov3 is trained on coco dataset but we can train it for our own custom dataset
 
 Mainly four custom files should be added for detecting the desired objects, as I have done for mask detection.
 
-1.obj.names
+[obj.data](https://github.com/Sinha199/Mask-Detection/blob/master/obj.data)
 
-2.obj.classes
+[obj.names](https://github.com/Sinha199/Mask-Detection/blob/master/obj.names)
 
-3.yolov3_obj.cfg
+[yolov3_obj.cfg](https://github.com/Sinha199/Mask-Detection/blob/master/yolov3_mask.cfg)
