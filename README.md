@@ -10,7 +10,7 @@ You only look once (YOLO) is a state-of-the-art, real-time object detection syst
 
 Yolov3 is trained on coco dataset but we can train it for our own custom datasets,detailed information is given on the particular github repo
 
-[darknet-cutom objects](https://github.com/AlexeyAB/darknet)
+[darknet-custom objects](https://github.com/AlexeyAB/darknet)
 
 Mainly four custom files should be added for detecting the desired objects, as I have done for mask detection.
 
