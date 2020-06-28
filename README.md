@@ -33,3 +33,4 @@ This is link to the dataset, [images](https://drive.google.com/drive/folders/1zy
 The folder containes the images and the corresponding text files which contain the annotations of the masked and non-masked images. For annotations of images I have used [LabelImg](https://github.com/tzutalin/labelImg) , its a tool graphical image annotation tool.
 
 ## Overview of Prediction
+[prediction.gif]
